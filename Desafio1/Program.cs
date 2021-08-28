@@ -24,7 +24,7 @@ namespace Desafio1
                         }
                     }
                     if (numDivisores == 2)
-                        Console.WriteLine("Primo" + i);
+                        Console.WriteLine("Primo" +  i);
 
                 }
 
